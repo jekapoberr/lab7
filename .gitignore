@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+casino_balance.json
+data.json
